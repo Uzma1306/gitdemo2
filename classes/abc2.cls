@@ -5,7 +5,7 @@ public class abc2 {
         Integer b=6;
         Integer sum = a+b;
         System.debug('Sum= '+sum);
-        System.debug('uzma');
+        System.debug('jeniii');
     }
 }
 
