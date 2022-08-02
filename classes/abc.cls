@@ -6,6 +6,7 @@ public class Indujha {
         Integer sum = a+b;
         System.debug('Sum= '+sum);
         System.debug('Hiii');
+        System.debug('hiii2');
     }
 }
 
